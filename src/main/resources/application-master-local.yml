@@ -1,0 +1,8 @@
+server:
+  port: 8000
+eureka:
+  client:
+    service-url:
+      defaultZone: http://smile:smilelxy@127.0.0.1:8761/eureka/
+
+
